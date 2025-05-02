@@ -415,7 +415,7 @@ export default function Portfolio() {
                 <div className="relative bg-black border border-white/10 rounded-lg overflow-hidden">
                   <div className="aspect-video bg-gray-900">
                     <img
-                      src="/PAGINATRUCOSGTAV.png?height=300&width=500"
+                      src="/PAGINATRUCOSGTAv.png?height=300&width=500"
                       alt="Fitness Tracker"
                       className="w-full h-full object-cover"
                     />
