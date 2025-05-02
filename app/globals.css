@@ -2,10 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: 'Noto Sans Georgian', sans-serif;
+* {
+  font-family: 'Noto Sans Georgian', sans-serif !important;
 }
-
 
 @layer base {
   :root {
